@@ -111,13 +111,6 @@ Url Shortner/
 
 ---
 
-## 🤝 Contributing
-
-- Feel free to open issues or PRs.
-- Suggestions: add analytics, custom aliases, admin UI, rate limits, or tests.
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
